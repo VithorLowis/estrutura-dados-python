@@ -2,6 +2,7 @@
 # Disciplina : Estrutura de dados
 # Atividade : Análise de sequÊncia de parêntesis e colchetes feita com a utilização
 # de uma estrutura Stack
+#versionado
 
 class Stack :
     def __init__(self):
