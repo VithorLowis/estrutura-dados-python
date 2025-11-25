@@ -1,36 +1,18 @@
-\# 📚 Estudos de Estrutura de Dados com Python
+# 📚 Estudos de Estrutura de Dados
 
-
-
-Este repositório documenta minha jornada de aprendizado em \*\*Estrutura de Dados e Algoritmos\*\*, focando na implementação prática utilizando Python.
-
-
+Este repositório documenta minha jornada de aprendizado em **Estrutura de Dados**, focando na prática com Python.
 
 ---
 
+## 🚀 Projetos
 
+### 1. Pilhas (Stack)
+**Desafio:** Algoritmo para validar parênteses e colchetes.
 
-\## 📂 Projetos
-
-
-
-\### 1. Pilhas (Stacks)
-
-\*\*Desafio:\*\* Validar se uma expressão matemática possui parênteses e colchetes bem formados.
-
-
-
-📄 \*\*\[Clique aqui para ver o Código do Analisador](./analisar\_sequencia.py)\*\*
-
-
+📄 **[Clique aqui para ver o Código](./analisar_sequencia.py)**
 
 ---
 
-
-
-\## 🛠️ Tecnologias
-
-\* Python 3
-
-\* Git \& GitHub
-
+## 🛠 Tecnologias
+* Python
+* Git e GitHub
